@@ -1,3 +1,9 @@
 * Pastebin.com extension Firefox port
 
 This is a port of pastebin.com's official Chrome extension for Firefox. It was directly downloaded from the Chrome Web Store, then signed with Mozilla's signing tool.
+
+
+Download it here:
+https://github.com/ryanpcmcquen/pastebin_extension_firefox_port/releases/download/3.0.2/pastebincom-3.0.2-fx.xpi
+
+Or under 'Releases'.
